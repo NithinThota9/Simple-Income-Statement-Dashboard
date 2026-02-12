@@ -32,4 +32,4 @@ The Simple Income Statement Dashboard is a Power BI solution that provides visua
 The data used in this project was obtained from the financial statements section of the Microsoft official website.
 
 ## Contact
-For inquiries and collaborations, feel free to reach out to [sdeminhaj@gmail.com](mailto:sdeminhaj@gmail.com).
+For inquiries and collaborations, feel free to reach out to Nithinthota999@gmail.com
